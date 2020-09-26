@@ -1,2 +1,2 @@
-# Game
-SnakeGame
+# SnakeGame with FPGA
+
